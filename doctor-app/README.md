@@ -1,4 +1,3 @@
-````md
 # 🩺 HealthConnect Doctor App
 
 A Flutter-based doctor-side healthcare application designed for managing patients, appointments, and medical interactions through a clean and responsive interface.
